@@ -1,11 +1,21 @@
 
 
-###  Hi, I’m @joaquinbembhy 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=joaquinbembhy.joaquinbembhy)
+###  Hi, I’m @joaquinbembhy 👋 
 
-#### Socials: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][1]
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)][2]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][3]
+
+### I'm happy to see you here ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=joaquinbembhy.joaquinbembhy)
+- 🇦🇷 🇮🇹 I'm from Argentina, but currently relocated in Milan, Italy
+- 👨‍🎓 Currently part of Master in Business Analytics and Big Data at MIP Politecnico di Milano.
+
+I look forward to working as a Data Scientist / Data Analyst in a company which values and people I feel identified with. Inside the data field I'm self-driven, curious, detail oriented and love to share my findings with colleagues and friends.
+
+- I’m currently working on different data science techniques as classification, regression, decision trees and more.
+- Updating my github daily to showcase my learning progress
+- I’m looking to collaborate on data related projects, in order to get to know new people in the space and to keep expanding my data science knowledge and skills (if you want to collaborate, email me!)
+- How to reach me: joacobembhy@gmail.com or find me in any social media.
 
 
 
@@ -26,12 +36,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-###
-- 👀 I’m interested in data science, analytics, technology and sports
-- 🌱 I’m currently learning data science techniques, machine learning models, data visualization and data wrangling.
-- 👨‍🎓 I'm currently attending a Master in Business Analytics and Big Data at MIP Politecnico di Milano.
-- 💞️ I’m looking to collaborate on data related projects, in order to get to know new people in the space and to keep expanding my data science knowledge and skills (if you want to collaborate, email me!)
-- 📫 How to reach me: joacobembhy@gmail.com or find me in any social media.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaquinbembhy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
