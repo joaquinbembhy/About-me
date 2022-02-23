@@ -10,7 +10,7 @@
 - 🇦🇷 🇮🇹 I'm from Argentina, but currently relocated in Milan, Italy
 - 👨‍🎓 Currently part of Master in Business Analytics and Big Data at MIP Politecnico di Milano.
 
-I look forward to working as a Data Scientist / Data Analyst in a company which values and people I feel identified with. Inside the data field I'm self-driven, curious, detail oriented and love to share my findings with colleagues and friends.
+I look forward to working as a Data Scientist / Data Analyst in a company which values and people I feel identified with. Inside the data field I'm self-driven, curious, detail-oriented and love to share my findings with colleagues and friends.
 
 - I’m currently working on different data science techniques as classification, regression, decision trees and more.
 - Updating my github daily to showcase my learning progress
@@ -35,9 +35,6 @@ I look forward to working as a Data Scientist / Data Analyst in a company which 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaquinbembhy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!---
 joaquinbembhy/joaquinbembhy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
