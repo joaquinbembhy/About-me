@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on data related projects, in order to get to know new people in the space and to keep expanding my data science knowledge and skills (if you want to collaborate, email me!)
 - 📫 How to reach me: joacobembhy@gmail.com or find me in any social media.
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaquinbembhy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${joaquinbembhy}.${joaquinbembhy.id})
 
 <!---
