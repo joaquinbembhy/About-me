@@ -42,6 +42,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[1]: http://www.linkedin.com/joaquinbembhy
+[1]: https://www.linkedin.com/in/joaquinbembhy/
 [2]: https://wa.me/393298114365
 [3]: https://mail.google.com/mail/?view=cm&fs=1&to=joacobembhy@gmail.com&su=Hello
