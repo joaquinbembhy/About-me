@@ -13,7 +13,7 @@
 I look forward to working as a Data Scientist / Data Analyst in a company that values and people I feel identified with. Inside the data field, I'm self-driven, curious, detail-oriented and love to share my findings with colleagues and friends.
 
 - I’m currently working on different data science techniques like classification, regression, decision trees and more.
-- Updating my GitHub daily to showcase my learning progress
+- Updating my GitHub weekly to showcase my learning progress
 - I’m looking to collaborate on data-related projects, to get to know new people in the space and, to keep expanding my data science knowledge and skills (if you want to collaborate, email me!)
 - How to reach me: joacobembhy@gmail.com or find me in any social media.
 
